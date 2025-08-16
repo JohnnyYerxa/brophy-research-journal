@@ -226,21 +226,25 @@ header, h1, h2 {
 }
 
 
-.about-container {
+.about-content {
   display: flex;
-  flex-direction: column;      /* stack items vertically */
-  justify-content: center;     /* vertical centering */
-  align-items: center;         /* horizontal centering */
-  text-align: center;          /* center the text */
-  min-height: 100vh;           /* full height of the viewport */
-  padding: 2rem;               /* some breathing room */
+  flex-direction: column;   /* stack vertically */
+  align-items: center;      /* center horizontally */
+  text-align: center;       /* center text under the image */
+  padding: 2rem;
 }
 
-.about-container h1 {
+.about-image {
+  max-width: 300px;   /* keep image from being huge */
+  border-radius: 8px; /* optional rounded corners */
+  margin-bottom: 1.5rem;
+}
+
+.about-content h1 {
   margin-bottom: 1rem;
 }
 
-.about-container p {
-  max-width: 700px;            /* keep text from stretching too wide */
+.about-content p {
+  max-width: 700px;   /* keeps text readable */
   margin-bottom: 1rem;
 }
