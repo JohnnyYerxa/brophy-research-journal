@@ -1,0 +1,125 @@
+[
+  {
+  "title": "Measuring Air Quality Around Campus",
+  "abstract": "We built a low-cost PM2.5 sensor array and analyzed hotspots near parking lots and main walkways.",
+  "authorFirst": "John",
+  "authorLast": "Smith",
+  "gradYear": "25",
+  "titleCredit": true,
+  "published": "2025-08-11",
+  "edition": "2025 Spring",
+  "image": "assets/featured.jpg",
+  "caption": "Courtesy of Brophy Research Journal",
+  "paragraphs": [
+    "Full article text (can stay for now; we’ll show only title+abstract on the home page)."
+  ],
+  "brophyNamesToBold": ["John Smith"],
+  "tags": ["John Smith ‘25"],
+  "url": "articles/air-quality.pdf"
+},
+  {
+  "title": "Measuring Air Quality Around Campus",
+  "abstract": "We built a low-cost PM2.5 sensor array and analyzed hotspots near parking lots and main walkways.",
+  "authorFirst": "John",
+  "authorLast": "Smith",
+  "gradYear": "25",
+  "titleCredit": true,
+  "published": "2025-08-11",
+  "edition": "2025 Spring",
+  "image": "assets/featured.jpg",
+  "caption": "Courtesy of Brophy Research Journal",
+  "paragraphs": [
+    "Full article text (can stay for now; we’ll show only title+abstract on the home page)."
+  ],
+  "brophyNamesToBold": ["John Smith"],
+  "tags": ["John Smith ‘25"],
+  "url": "articles/air-quality.pdf"
+},
+
+  {
+  "title": "Measuring Air Quality Around Campus",
+  "abstract": "We built a low-cost PM2.5 sensor array and analyzed hotspots near parking lots and main walkways.",
+  "authorFirst": "John",
+  "authorLast": "Smith",
+  "gradYear": "25",
+  "titleCredit": true,
+  "published": "2025-08-11",
+  "edition": "2025 Spring",
+  "image": "assets/featured.jpg",
+  "caption": "Courtesy of Brophy Research Journal",
+  "paragraphs": [
+    "Full article text (can stay for now; we’ll show only title+abstract on the home page)."
+  ],
+  "brophyNamesToBold": ["John Smith"],
+  "tags": ["John Smith ‘25"],
+  "url": "articles/air-quality.pdf"
+},
+
+{
+  "title": "The Physics of Frisbee Flight",
+  "abstract": "An exploration into how lift, drag, and angular momentum make a Frisbee soar across the Great Lawn.",
+  "authorFirst": "Alex",
+  "authorLast": "Johnson",
+  "gradYear": "26",
+  "titleCredit": true,
+  "published": "2025-08-16",
+  "edition": "2025 Fall",
+  "image": "assets/featured.jpg",
+  "caption": "Courtesy of Brophy Research Journal",
+  "paragraphs": [
+    "Alex Johnson ‘26 investigated the science behind Frisbee throws during lunch breaks. The study examines how changes in angle of attack and spin rate affect distance.",
+    "The research also compares different Frisbee brands, concluding that shape and rim thickness significantly change aerodynamic stability."
+  ],
+  "brophyNamesToBold": ["Alex Johnson"],
+  "tags": ["Alex Johnson ‘26", "Physics"],
+  "url": "articles/frisbee-flight.pdf"
+},
+
+{
+  "title": "Mathematical Models of Coffee Cooling",
+  "abstract": "We explore Newton’s Law of Cooling as applied to coffee temperature over time.",
+  "authorFirst": "Sarah",
+  "authorLast": "Martinez",
+  "gradYear": "25",
+  "titleCredit": true,
+  "published": "2025-08-16",
+  "edition": "2025 Fall",
+  "image": "assets/featured.jpg",
+  "caption": "Courtesy of Brophy Research Journal",
+  "paragraphs": [
+    "Sarah Martinez ‘25 investigated how Newton’s Law of Cooling applies to everyday life by tracking coffee cooling rates.",
+    "The research demonstrated how exponential models can predict real-world heat loss in beverages."
+  ],
+  "brophyNamesToBold": ["Sarah Martinez"],
+  "tags": ["Sarah Martinez ‘25", "Mathematics"],
+  "url": "articles/coffee-cooling.pdf"
+},
+
+{
+  "title": "AI-Powered Plant Growth Analysis",
+  "abstract": "We applied computer vision to monitor and predict plant growth patterns in the Brophy greenhouse.",
+  "authorFirst": "Daniel",
+  "authorLast": "Kim",
+  "gradYear": "24",
+  "titleCredit": true,
+  "published": "2024-11-15",
+  "edition": "2024 Fall",
+  "image": "assets/featured.jpg",
+  "caption": "Courtesy of Brophy Research Journal",
+  "paragraphs": [
+    "Daniel Kim ‘24 developed an AI-based method for tracking plant growth in the school greenhouse.",
+    "By using Python and OpenCV, the team measured leaf size and color changes over time to predict growth trends."
+  ],
+  "brophyNamesToBold": ["Daniel Kim"],
+  "tags": ["Daniel Kim ‘24", "Biology", "Computer Vision"],
+  "url": "articles/plant-growth.pdf"
+}
+
+
+
+
+
+
+]
+
+
