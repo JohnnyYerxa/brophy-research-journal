@@ -224,3 +224,23 @@ p {
 header, h1, h2 {
   scroll-margin-top: 72px;
 }
+
+
+.about-container {
+  display: flex;
+  flex-direction: column;      /* stack items vertically */
+  justify-content: center;     /* vertical centering */
+  align-items: center;         /* horizontal centering */
+  text-align: center;          /* center the text */
+  min-height: 100vh;           /* full height of the viewport */
+  padding: 2rem;               /* some breathing room */
+}
+
+.about-container h1 {
+  margin-bottom: 1rem;
+}
+
+.about-container p {
+  max-width: 700px;            /* keep text from stretching too wide */
+  margin-bottom: 1rem;
+}
