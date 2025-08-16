@@ -226,25 +226,49 @@ header, h1, h2 {
 }
 
 
+/* ---- About page only ---- */
 .about-content {
+  /* centers the whole About section without touching the nav */
+  max-width: 800px;       /* comfy reading width */
+  margin: 2rem auto;      /* centers horizontally on the page */
+  padding: 1.5rem;
   display: flex;
-  flex-direction: column;   /* stack vertically */
-  align-items: center;      /* center horizontally */
-  text-align: center;       /* center text under the image */
-  padding: 2rem;
+  flex-direction: column; /* stack image, heading, paragraphs */
+  align-items: center;    /* center the stack horizontally */
+  text-align: center;     /* center the text */
 }
 
-.about-image {
-  max-width: 300px;   /* keep image from being huge */
-  border-radius: 8px; /* optional rounded corners */
-  margin-bottom: 1.5rem;
+.about-content figure {
+  margin: 0 0 1.25rem; /* space below the image+caption block */
+}
+
+.about-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;   /* optional: soft corners */
+  display: block;
+}
+
+.about-content figcaption {
+  margin-top: 0.5rem;
+  margin-bottom: 1.25rem;
+  font-style: italic;
+  color: #666;
 }
 
 .about-content h1 {
-  margin-bottom: 1rem;
+  margin: 0 0 1rem;
 }
 
 .about-content p {
-  max-width: 700px;   /* keeps text readable */
-  margin-bottom: 1rem;
+  max-width: 70ch;      /* keeps paragraphs from getting too wide */
+  line-height: 1.65;
+  margin: 0 0 1rem;
+}
+
+/* Optional: if you have a leadership list block, add class="about-leadership" to its <ul> */
+.about-leadership {
+  list-style-position: inside;
+  padding: 0;
+  margin: 1rem 0 0;
 }
